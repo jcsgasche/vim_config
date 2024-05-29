@@ -1,0 +1,1 @@
+nnoremap dd "_dd
