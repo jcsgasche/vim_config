@@ -8,5 +8,3 @@ set clipboard=unnamedplus
 " Faster scrolling
 nnoremap <C-Up> <C-u>
 nnoremap <C-Down> <C-d>
-nnoremap <C-Left> 5zh
-nnoremap <C-Right> 5zl
