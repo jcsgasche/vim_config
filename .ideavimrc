@@ -1,3 +1,0 @@
-nnoremap dd "_dd
-set clipboard=unnamedplus
-set clipboard^=ideaput
